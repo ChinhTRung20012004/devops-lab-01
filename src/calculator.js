@@ -1,5 +1,5 @@
 function add(a, b) {
-  console.log("Adding:", a, b);
+  console.log("Adding:", a, b); // Dòng này là thay đổi mới
   return a + b;
 }
 function subtract(a, b) {
